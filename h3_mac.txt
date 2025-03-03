@@ -1,0 +1,11 @@
+import random
+ bjk=random.randint(0,10)
+ print("bjk")
+ fb=random.randint(0,10)
+ print("fb")
+ if bjk>fb:
+    print("bjk kazandi")
+ elif fb>bjk:
+    print("fb kazandi")
+ else:
+    print("berabere")
